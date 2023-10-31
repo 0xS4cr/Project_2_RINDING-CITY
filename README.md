@@ -1,4 +1,4 @@
-:rocket: Renaud_Clément_2_ridingcity_200323 :rocket:
+:rocket: RIDING CITY :rocket:
 
 Ce projet a pour but de me faire découvrir le langage HTML, très populaire parmi les développeurs web. Il est très guidé et m' accompagnera étape par étape dans l'acquisition des fondamentaux du langage. Je l'utiliserez bientôt pour développer des sites plus ambitieux, mais dans un premier temps, je fais mes premiers pas sur HTML... :computer:
 
